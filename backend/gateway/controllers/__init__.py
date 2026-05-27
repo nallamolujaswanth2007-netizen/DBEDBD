@@ -1,0 +1,2 @@
+from controllers.authenticationController import router as AuthenticationRouter
+from controllers.inventoryController import router as InventoryRouter
